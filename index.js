@@ -19,7 +19,7 @@ $(function() {
           </button>
         </div>`);
         //targeting the ul with the class .shopping-list to append or add to it with copy paste of the other <li>s using string literal
-        //it should be insterting the new item?  Why undefined?
+        //it should be insterting the new item?  Why undefined? - I was using the wrong id when initializing the newItem const. 
     
     });
 
